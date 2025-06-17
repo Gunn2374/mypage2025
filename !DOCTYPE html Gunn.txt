@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>gunnplus</title>
+</head>
+  
+<body>
+  <iframe src="https://drive.google.com/file/d/1YThMrCks9v0_NnG6hygYrx45a9OvSuM0/preview" width="640" height="480" allow="autoplay"></iframe>
+  <h1> Gun  </h1>
+  <h1> Kritchai Kidsuay </h1>
+  <h3> School : Suankulard Withayalai Nonthaburi </h3>
+    <h3>Skill <h3>
+      <ul>
+         <li> Swimming </li>
+          <li> take photo </li>
+<ul><h3>
+  <li> M.6/2 no.14 <br>
+  <li> Phone : 0995041155 </h3>
+
+</body>
+    
+</html>
